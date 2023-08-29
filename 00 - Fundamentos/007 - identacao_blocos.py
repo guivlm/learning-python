@@ -1,3 +1,5 @@
+# boa prática: identeção com 4 espaços entre os blocos!
+
 def sacar(valor):
     saldo = 500
 
@@ -13,4 +15,4 @@ def depositar(valor):
     saldo += valor
 
 
-sacar(1000)
+sacar(500)
